@@ -117,11 +117,3 @@ Here’s a detailed summary of what was performed in the analysis, along with ke
 5. **Pricing (ADR):**  
    - Higher ADR values often correlate with lower cancellation rates.  
 
----
-
-### **Next Steps for Deeper Analysis:**
-1. Analyze the relationship between `lead_time` and cancellations.
-2. Study geographical trends by visualizing `country` distribution.
-3. Model predictions for cancellations using machine learning.  
-
-Would you like detailed insights on any specific chart or deeper analysis?
